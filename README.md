@@ -18,3 +18,9 @@ php artisan serve
 ```
 5. Testing
 > Open browser and go to http://127.0.0.1:8000
+## Remarks
+- In this project use google map javascript api and place api
+- Use VueJS for frontend 
+> resources/js/components/resources/js/components
+- Use Laravel for call google place api
+> app/Http/Controllers/Restaurant.php
